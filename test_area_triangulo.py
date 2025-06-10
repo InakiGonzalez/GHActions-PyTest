@@ -1,4 +1,4 @@
-from app import area_triangulo
+from app import calcular_area
 
 def test_area_triangulo_correcto():
     assert area_triangulo.calcular_area(10, 5) == 25
