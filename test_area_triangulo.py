@@ -1,3 +1,4 @@
+import pytest
 from app import calcular_area
 
 def test_area_triangulo_correcto():
